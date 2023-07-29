@@ -1,6 +1,6 @@
 
 
-###   👋   [Homepage:](https://paulpanwang.github.io/) [https://paulpanwang.github.io/](https://paulpanwang.github.io/)
+###   👋   [Panwang Pan](https://paulpanwang.github.io/) [https://paulpanwang.github.io/](https://paulpanwang.github.io/)
 
 <p>I am currently employed as a Researcher and Developer at Pico Architecture Group within <a href="https://www.bytedance.com/en/">ByteDance Ltd</a>. Previously,  I held the position of Senior Algorithm Engineer at  <a href="https://www.alibabacloud.com/zh">Alibaba Cloud</a>, where I specialized in 3D Face Reconstruction and 6DoF Pose Estimation.  
 </p>
