@@ -2,10 +2,15 @@
 
 ###   👋   [Panwang Pan:](https://paulpanwang.github.io/) [https://paulpanwang.github.io/](https://paulpanwang.github.io/)
 
-<p>I am currently employed as a Researcher and Developer at Pico Architecture Group within <a href="https://www.bytedance.com/en/">ByteDance Ltd</a>. Previously,  I held the position of Senior Algorithm Engineer at  <a href="https://www.alibabacloud.com/zh">Alibaba Cloud</a>, where I specialized in 3D Face Reconstruction and 6DoF Pose Estimation.  
-</p>
+###  👋
+ 👨‍💻 I am currently engaged as a Researcher and Developer at [ByteDance](https://www.bytedance.com/en/) [Pico](https://www.picoxr.com/cn). Before that, I served as a Senior Algorithm Engineer at [Alibaba Cloud](https://www.alibabacloud.com/). 
 
-<p>In 2019, I earned my Master's degree from <a href="https://uac.xmu.edu.cn/">Xiamen University</a>, where I was enrolled in the prestigious Key Laboratory of Underwater Acoustic Communication, within the School of Informatics. </p>
+I am actively seeking highly motivated **Research Interns** located in Shanghai or Beijing, who are dedicated to conducting research and publishing in top-tier conferences. We offer AI-generated content (AIGC) training resources and guidance to help you succeed. If you are interested in joining our team and contributing to groundbreaking research, please feel free to reach out to me via email.
+  
+- 🌱 **Focus on**
 
-<p> My research interests primarily lie at the intersection of Efficient Deep Learning and 3D Computer Vision.                
-</p>
+  - 3D Object/Scene Generation 
+  - 6DoF Pose Estimation 
+  
+- 📫 How to reach out to me: paulpanwang@gmail.com 
+- ⭐ My Github Profile: https://paulpanwang.github.io/    
