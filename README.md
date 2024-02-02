@@ -2,14 +2,15 @@
 
 ###   👋   [Panwang Pan:](https://paulpanwang.github.io/) [https://paulpanwang.github.io/](https://paulpanwang.github.io/)
 
- 👨‍💻 I am currently engaged as a Researcher and Developer at [ByteDance](https://www.bytedance.com/en/) [Pico](https://www.picoxr.com/cn). Before that, I served as a Senior Algorithm Engineer at [Alibaba Cloud](https://www.alibabacloud.com/). 
+ 👨‍💻 I'm a Research and Development specialist at [ByteDance Pico](https://www.bytedance.com/en/), with prior experience as a Senior Algorithm Engineer at [Alibaba Cloud]((https://www.alibabacloud.com/)). I'm seeking **Research Interns/Full time** in Beijing or Shanghai, aspiring to contribute to top-tier journals and conferences. Interested candidates passionate about my research domains are encouraged to reach out via email.
 
-We are actively seeking highly motivated **Research Interns** located in Shanghai or Beijing, who are dedicated to conducting research and publishing in top-tier conferences. We offer AI-generated content (AIGC) training resources and guidance to help you succeed. If you are interested in joining our team and contributing to groundbreaking research, please feel free to reach out to me via email.
-  
-- 🌱 **Focus on**
-
+- 🌱 **Research Focus**
   - 3D Object/Scene Generation 
-  - 6DoF Pose Estimation 
-  
+  - 3D Human Generation
+    
+- 🎸 **Resources Available**
+  - Access to 200+ GPUs for training
+  - Expert mentorship and guidance
+   
 - 📫 How to reach out to me: paulpanwang@gmail.com 
 - ⭐ My Github Profile: https://paulpanwang.github.io/    
