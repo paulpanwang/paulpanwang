@@ -1,6 +1,6 @@
 
 
-###   👋   [Panwang Pan:](https://paulpanwang.github.io/) [https://paulpanwang.github.io/](https://paulpanwang.github.io/)
+###   👋   [Panwang Pan:](https://paulpanwang.github.io/)
 
  👨‍💻 I'm a Research and Development specialist at [ByteDance Pico](https://www.bytedance.com/en/), with prior experience as a Senior Algorithm Engineer at [Alibaba Cloud]((https://www.alibabacloud.com/)). We are seeking **Research Intern/Full Time Employee** in Beijing or Shanghai, aspiring to contribute to top-tier journals and conferences. Interested candidates passionate about my research domains are encouraged to reach out via email.
 
