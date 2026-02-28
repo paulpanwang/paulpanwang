@@ -2,7 +2,7 @@
 
 ###   👋   [Panwang Pan:](https://paulpanwang.github.io/)
 
- 👨‍💻 I'm Senior Researcher @ ByteDance, with prior experience as a Senior Algorithm Engineer at [Alibaba Cloud]((https://www.alibabacloud.com/)). 
+ 👨‍💻 I'm Senior Researcher @ ByteDance, with prior experience as a Senior Algorithm Engineer @ [Alibaba Cloud]((https://www.alibabacloud.com/)). 
 
    
 - 📫 How to reach out to me: paulpanwang@gmail.com 
