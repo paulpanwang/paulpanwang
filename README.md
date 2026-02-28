@@ -2,15 +2,14 @@
 
 ###   👋   [Panwang Pan:](https://paulpanwang.github.io/)
 
- 👨‍💻 I'm a Research and Development specialist at [ByteDance Pico](https://www.bytedance.com/en/), with prior experience as a Senior Algorithm Engineer at [Alibaba Cloud]((https://www.alibabacloud.com/)). We are seeking **Research Intern/Full Time Employee** in Beijing or Shanghai, aspiring to contribute to top-tier journals and conferences. Interested candidates passionate about my research domains are encouraged to reach out via email.
+ 👨‍💻 I'm Senior Researcher @ ByteDance, with prior experience as a Senior Algorithm Engineer at [Alibaba Cloud]((https://www.alibabacloud.com/)). 
 
-- 🌱 **Research Focus**
-  - 3D Object/Scene Generation 
-  - 3D Human Generation
-    
-- 🎸 **Resources Available**
-  - Access to 200+ GPUs for training
-  - Expert mentorship and guidance
    
 - 📫 How to reach out to me: paulpanwang@gmail.com 
-- ⭐ My Github Profile: https://paulpanwang.github.io/    
+- ⭐ My Github Profile: https://paulpanwang.github.io/
+
+   
+### 📊 GitHub Stats
+
+| <a href="https://github.com/paulpanwang"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=paulpanwang&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="paulpanwang's github stats" /></a> | <a href="https://github.com/paulpanwang"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=paulpanwang&theme=buefy&hide_border=true&layout=compact&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
+| ------------- | ------------- |
