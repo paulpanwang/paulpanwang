@@ -6,7 +6,7 @@
 
    
 - 📫 How to reach out to me: paulpanwang@gmail.com 
-- ⭐ My Github Profile: https://paulpanwang.github.io/
+- ⭐ My Github Profile: https://paulpanwang.github.io
 
    
 ### 📊 GitHub Stats
