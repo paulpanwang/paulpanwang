@@ -5,7 +5,7 @@
 - 📫 How to reach out to me: paulpanwang@gmail.com or panpanwang@bytedance.com
 - ⭐ My Github Profile: https://paulpanwang.github.io
 
-🛠️ Featured Projects
+### 🛠️ Featured Projects
 1. [PartCrafter](https://github.com/wgsxm/PartCrafter) [![GitHub Repo stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social)](https://github.com/wgsxm/PartCrafter)
 2. [MoVieS](https://github.com/chenguolin/MoVieS) [![GitHub Repo stars](https://img.shields.io/github/stars/chenguolin/MoVieS?style=social)](https://github.com/chenguolin/MoVieS)
 3. [JarvisArt](https://github.com/LYL1015/JarvisArt) [![GitHub Repo stars](https://img.shields.io/github/stars/LYL1015/JarvisArt?style=social)](https://github.com/LYL1015/JarvisArt)
