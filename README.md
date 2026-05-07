@@ -1,6 +1,5 @@
-###   👋   [Panwang Pan:](https://paulpanwang.github.io/)  👨‍💻 I'm Senior Researcher @ ByteDance 
-- 📫 How to reach out to me: paulpanwang@gmail.com or panpanwang@bytedance.com
-- ⭐ My Github Profile: https://paulpanwang.github.io
+###  👨‍💻 [Panwang Pan:](https://paulpanwang.github.io/)   I'm Senior Researcher @ ByteDance 
+
 
 
 | <a href="https://github.com/paulpanwang"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=paulpanwang&show_icons=true&theme=buefy&hide_border=true&hide=contribs&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR&include_all_commits=true&cache_seconds=14400&readme_stats_rev=202605083" alt="paulpanwang's github stats" /></a> | <a href="https://github.com/paulpanwang"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=paulpanwang&theme=buefy&hide_border=true&layout=compact&include_orgs=true&role=OWNER,COLLABORATOR&cache_seconds=14400&readme_stats_rev=202605083" /></a> |
